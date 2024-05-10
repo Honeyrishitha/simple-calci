@@ -1,0 +1,32 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: #011627;
+    color: #fdfffc;
+    text-align:center;
+    background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.rawpixel.com%2Fsearch%2Fdark%2520blue%2520background&psig=AOvVaw1E3cZrt6iCgEyFRKAs9_Pl&ust=1714636339986000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNjHmKn864UDFQAAAAAdAAAAABAE);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+h1{
+    font-sixe: 45px;
+}
+
+input{
+    width: 75px;
+    height: 50px;
+    font-size: 45px;
+    border-radius: 10px;
+    margin: 10px;
+    background-color:white ;
+    color: black;
+    border-style: none;
+
+}
+
+.btn:hover{
+    background-color: yellow;
+    cursor: pointer;
+}
